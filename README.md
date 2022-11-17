@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://github.com/xchristx/xchristx/blob/main/fondo%20git_Mesa%20de%20trabajo%201.png" alt="xchristx" /> </p>
+<p align="center"> <img src="https://github.com/xchristx/xchristx/blob/main/fondo%20git_Mesa%20de%20trabajo%201.png" alt="xchristx" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 
